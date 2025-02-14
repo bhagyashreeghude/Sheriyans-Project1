@@ -28,3 +28,8 @@ img{
     object-fit: cover;
     object-position: center;
 }
+#card h2{
+    font-size: 15px;
+    padding: 2px;
+    margin: 2px 0px;
+}
